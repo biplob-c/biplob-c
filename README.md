@@ -11,7 +11,7 @@
   </div> 
 </p>
 
-<h3 align="center">A Passionate Full Stack Developer , Competitive Programmer And A Problem Solver From Bangladesh </h3>    
+<h3 align="center"> A passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.</h3>    
 
 <h2>
         <span style='padding-right:10px'><img width="40px" height="40px" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" ></span>
