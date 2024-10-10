@@ -2,7 +2,8 @@
 ![logo](xxx.jpg)                                                                  
 <h3 align="center">         
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello! Biplob Chakma welcomes you!" alt="Typing SVG" /></a>
-</h3>                                                                                 
+</h3>  
+
 <h3 align="center"> A passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.</h3>    
 
 <h2>
@@ -10,24 +11,11 @@
         <b>About Me</b>
 </h2>
 
-
 <p> 
     <ul>
-       <li> <span>Working as a SQA professionla over last 12 years in a MNC</span></li>
+       <li><span>Currently working as a SQA professional in a MNC</span></li>
+        <li></li>
     </ul>
-    <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
-        <span>I’m currently learning <b>Data Structures and Algorithms.</b> to advance my coding skills </span>
-    </p>
-    <p >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
-        <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
-    </p>
-    <p >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
-        <span>I really love to meet with new people</span>
-    </p>
-
 </p>
 
 
