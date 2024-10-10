@@ -12,8 +12,7 @@
 
 <p> 
     <ul>
-       <li><span>Currently working as a SQA professional in a MNC</span></li>
-        <li></li>
+       <li><span>Currently working as a SQA professional for a MNC</span></li>
     </ul>
 </p>
 
