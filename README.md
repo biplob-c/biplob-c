@@ -1,5 +1,4 @@
-
-![logo](xxx.jpg)                                                                  
+                                                              
 <h3 align="center">         
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello! Biplob Chakma welcomes you!" alt="Typing SVG" /></a>
 </h3>  
