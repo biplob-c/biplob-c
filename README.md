@@ -18,8 +18,7 @@
 
 
 <img alt="Coding" width="400px" align="right" src="coding-boy.gif">  
-<h2 style='margin-top:30px'>
-      <span><img width="20px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
+<h2 
       <b>Connect with me :</b>
 </h2>
 <p align="left">               
