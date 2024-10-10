@@ -25,27 +25,19 @@
         <b>Connect with me :</b>
 </h2>
 <p align="left">               
-<a href="https://www.linkedin.com/in/soumen-baral-846995192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/soumen-baral-846995192/](https://www.linkedin.com/in/biplob-chakma-0a718566/)" height="30" width="40"/></a>
-<a href="https://fb.com/shumen.baral.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shumen.baral.3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shumen_sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shumen_sb" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/soumen.sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="soumen.sb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soumenbaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumenbaral" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumen-baral-846995192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biplob-chakma-0a718566/" height="30" width="40"/></a>
 </p> 
   <hr> 
   
 <h2 style='margin-top:30px'>
         <span style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></span>
-        <b>Languages and Tools :</b>
+        <b>Languages and Tools:</b>
 </h2>
 
-
 <p align="left"> 
-  
 ## Frontend
-
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#)
 
 <!-- [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) -->
 
@@ -57,12 +49,9 @@
 [![nextjs Badge](https://img.shields.io/badge/React_Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=61DAFB)](#)
 [![Nextjs Badge](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 <!-- [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=white)](#) -->
-
 <!-- [![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#) -->
-
-
-
 <!-- [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) -->
+
 
 <!-- [![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#) -->
 ## Backend
