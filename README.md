@@ -19,8 +19,8 @@
 
 <img alt="Coding" width="400px" align="right" src="coding-boy.gif">  
 <h2 style='margin-top:30px'>
-        <span><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
-        <b>Connect with me :</b>
+      <span><img width="20px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
+      <b>Connect with me :</b>
 </h2>
 <p align="left">               
 <a href="https://www.linkedin.com/in/soumen-baral-846995192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biplob-chakma-0a718566/" height="30" width="40"/></a>
