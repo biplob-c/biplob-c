@@ -1,7 +1,6 @@
                                                               
 <h3 align="center">         
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello! Biplob Chakma welcomes you!
-                                      Have a wonderful Day!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello! Biplob Chakma welcomes you! Have a wonderful Day!" alt="Typing SVG" /></a>
 </h3>  
 
 <h3 align="center"> A passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.</h3>    
