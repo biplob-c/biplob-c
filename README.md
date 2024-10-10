@@ -1,6 +1,6 @@
                                                               
 <h3 align="center">       
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=49C5F7&width=440&height=60&lines=Hello! Biplob Chakma welcomes you! Have a wonderful Day!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=49C5F7&width=440&height=60&lines=Hello!+Biplob Chakma welcomes you!+Have a wonderful Day!" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=49C5F7&width=440&height=60&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </h3>  
 
