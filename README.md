@@ -15,9 +15,6 @@
        <li><span>Currently working as a SQA professional for a MNC</span></li>
     </ul>
 </p>
-
-
-<img alt="Coding" width="400px" align="right" src="coding-boy.gif">  
 <h2 
       <b>Connect with me :</b>
 </h2>
