@@ -13,7 +13,7 @@
 
 <p> 
     <ul>
-        <span>Working as a SQA professionla over last 12 years in a MNC</span>
+        <ol><span>Working as a SQA professionla over last 12 years in a MNC</span></ol>
     </ul>
     <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
