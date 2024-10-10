@@ -6,7 +6,6 @@
 <h3 align="center"> He is a passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.</h3>    
 
 <h2>
-        <span style='padding-right:10px'><img width="40px" height="40px" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" ></span>
         <b>About Me</b>
 </h2>
 
@@ -19,11 +18,10 @@
       <b>Connect with me :</b>
 </h2>
 <p align="left">               
-<a href="https://www.linkedin.com/in/biplob-chakma-0a718566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biplob-chakma-0a718566/" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/biplob-chakma-0a718566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biplob-chakma-0a718566/" height="30" width="40"/></a>
 </p> 
   <hr> 
   
 <h2 style='margin-top:30px'>
-        <span style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></span>
         <b>Languages and Tools:</b>
 </h2>
