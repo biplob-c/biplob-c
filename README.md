@@ -25,3 +25,11 @@
 <h2 style='margin-top:30px'>
         <b>Languages and Tools:</b>
 </h2>
+<p> 
+    <ul>
+       <li><span>C/C++</span></li>
+      <li><span>Python/span></li>
+      <li><span>HTML, CSS</span></li>
+      <li><span>My SQL/span></li>
+    </ul>
+</p>
