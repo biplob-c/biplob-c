@@ -28,8 +28,9 @@
 <p> 
     <ul>
        <li><span>C/C++</span></li>
-      <li><span>Python/span></li>
+      <li><span>Python</span></li>
       <li><span>HTML, CSS</span></li>
       <li><span>My SQL</span></li>
+ 
     </ul>
 </p>
