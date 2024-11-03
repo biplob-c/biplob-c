@@ -11,11 +11,11 @@
 
 <p> 
     <ul>
-       <li><span></span></li>
+       <li><span>to be added sooon!an></li>
     </ul>
 </p>
 <h2 
-      <b>Connect with me :</b>
+      <b>Connect with me:</b>
 </h2>
 <p align="left">               
   <a href="https://www.linkedin.com/in/biplob-chakma-0a718566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biplob-chakma-0a718566/" height="30" width="40"/></a>
