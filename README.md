@@ -11,7 +11,7 @@
 
 <p> 
     <ul>
-       <li><span>to be added sooon!a</span></li>
+       <li><span>to be added sooon!</span></li>
     </ul>
 </p>
 <h2 
