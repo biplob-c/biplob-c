@@ -4,9 +4,7 @@
 </h2>
 
 <p> 
-    <ul>
-       <li><span>  <p>A passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.</p></span></li>
-    </ul>
+    A passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.
 </p>
 <h2 
       <b>Connect with me:</b>
