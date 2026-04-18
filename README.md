@@ -1,12 +1,11 @@
                                                               
 <h2>
         <b>About Me</b>
-  <p>A passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.</p>
 </h2>
 
 <p> 
     <ul>
-       <li><span>to be added sooon!</span></li>
+       <li><span>  <p>A passionate software testing professional having over 12 years of experience in SQA which include menu tree and test case creation, as well as execution, finding and managing defects, documentations, test plan and reporting, release management etc.</p></span></li>
     </ul>
 </p>
 <h2 
